@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-     {/* <Two_data_form/> */}
+     {/* <Two_data_form/>  */}
      {/* <Update_state/> */}
      {/* <Adding_checked_box/> */}
      {/* <Radio_checked_form/> */}
